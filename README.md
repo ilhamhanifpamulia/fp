@@ -2,16 +2,12 @@
 <table class="table table-bordered">
   <tbody>
     <tr>
-      <th style="width: 30%">Nama</th>
-      <td>Hadi Kusumanto</td>
-    </tr>
-    <tr>
       <th>NIM</th>
-      <td>18090112</td>
+      <td>18090027</td>
     </tr>
     <tr>
       <th>Kelas</th>
-      <td>6B</td>
+      <td>6C</td>
     </tr>
     <tr>
       <th>Link Aplikasi</th>
