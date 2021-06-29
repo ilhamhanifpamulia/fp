@@ -11,11 +11,7 @@
     </tr>
     <tr>
       <th>Link Aplikasi</th>
-      <td><a href="http://rekam-surat.herokuapp.com">Aplikasi Rekam Surat</a></td>
-    </tr>
-    <tr>
-      <th>Link Drive Laporan</th>
-      <td><a href="https://drive.google.com/file/d/1b9fJBhifth1fYfCrLUrtnQPHxZyWfNYd/view?usp=sharing">Laporan</a></td>
+      <td><a href="http://rekam-surat.herokuapp.com">Aplikasi Perekaman Data HP</a></td>
     </tr>
   </tbody>
 </table>
